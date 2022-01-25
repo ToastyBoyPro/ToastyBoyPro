@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToastyBoyProductions
 - 👀 I’m interested in becoming a Front End Web Developer
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on open source projects to familiarize myself with front end developement work flows
+- 💞️ I’m looking to collaborate on open source projects to familiarize myself with frontend developement work flows
 - 📫 How to reach me: https://twitter.com/ToastyBoyPro
 
 <!---
