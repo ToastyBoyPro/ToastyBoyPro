@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToastyBoyProductions
-- 👀 I’m interested in becoming a Front End Web Developer
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on open source projects to familiarize myself with frontend developement work flows
+- 👀 I’m interested in joining the cybersecurity industry
+- 🌱 I’m currently learning how to build my own network, manage SIEM tools and dashboards, and analyze network traffic to name a few projects
+- 💞️ I’m looking for any cybersecurity related exercises and projects to familiarize myself with cybersecurity work flows
 - 📫 How to reach me: https://twitter.com/ToastyBoyPro
 
 <!---
