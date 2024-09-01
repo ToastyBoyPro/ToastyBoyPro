@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 I am a seasoned water purification chemist/operator and freelance web developer transitioning into cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
