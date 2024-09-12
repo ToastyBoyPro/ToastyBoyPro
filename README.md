@@ -2,7 +2,9 @@
 - 👀 I’m interested in joining the cybersecurity industry
 - 🌱 I’m currently learning how to build my own network, manage SIEM tools and dashboards, and analyze network traffic to name a few projects
 - 💞️ I’m looking for any cybersecurity related exercises and projects to familiarize myself with cybersecurity work flows
+<!---
 - 📫 How to reach me: https://twitter.com/ToastyBoyPro
+--->
 
 <!---
 ToastyBoyProd/ToastyBoyProd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 Seasoned chemistry and water purification operations professional looking to enhance my cybersecurity experience by applying my expertise in analytical thinking, process optimization, and regulatory compliance. Eager to utilize my problem-solving skills and attention to detail in identifying and mitigating cyber risks while expanding my technical knowledge through cybersecurity certifications and training. Seeking to contribute to the protection of critical infrastructure and data security in a dynamic and evolving environment.
 
+<!---
 ## Skills
 
 | Skill                                         | Associated Project         |
