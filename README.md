@@ -12,14 +12,11 @@ You can click the Preview link to take a look at your changes.
 # Hello, I'm Robert Park
 <a href="https://linkedin.com/in/robert-s-park/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a seasoned water purification chemist/operator and freelance web developer transitioning into cybersecurity.
-
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seasoned chemistry and water purification operations professional looking to enhance my cybersecurity experience by applying my expertise in analytical thinking, process optimization, and regulatory compliance. Eager to utilize my problem-solving skills and attention to detail in identifying and mitigating cyber risks while expanding my technical knowledge through cybersecurity certifications and training. Seeking to contribute to the protection of critical infrastructure and data security in a dynamic and evolving environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -31,7 +28,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
