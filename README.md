@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToastyBoyProductions
-- 👀 I’m interested in joining the cybersecurity industry
-- 🌱 I’m currently learning how to build my own network, manage SIEM tools and dashboards, and analyze network traffic to name a few projects
+- 👀 I’m interested in increasing my experience in the cybersecurity industry
+- 🌱 I’m currently learning how to build networks, manage SIEM tools and dashboards, and analyze network traffic to name a few projects
 - 💞️ I’m looking for any cybersecurity related exercises and projects to familiarize myself with cybersecurity work flows
 <!---
 - 📫 How to reach me: https://twitter.com/ToastyBoyPro
